@@ -1,0 +1,42 @@
+body {background-image:url("Homepage bg.jpg"); 
+		background-repeat:repeat;}
+.senabodi  {text-align:center; 
+		font-family: Blackadder ITC;
+		color: white;
+		float:center;
+		font-size:100px;
+		text-shadow: 2px 2px 8px black;
+		padding:5px;}
+.neayrong {text-align: center;
+		font-family: Aptos;
+		color: white;
+		float:center;
+		font-size:25px;
+		text-shadow: 2px 2px 8px black;
+		padding:5px;}
+.sva {text-align:center; 
+		font-family: Aptos;
+		color: white;
+		float:center;
+font-size:25px;}
+ul {  list-style-type: none;
+  margin: 0;
+  padding: 0;}
+li { display: inline;}
+button {font-family:Aptos; 
+	background-color: none;
+	border: none;
+	color: white;
+	font-weight:bold;
+	text-shadow: 2px 2px 8px black;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	margin: 4px 2px;
+cursor:pointer;}
+
+iframe {border-radius:20px;}
+iframe:hover{box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);}
+.button1{background-image: url("button1.png");padding: 70px 200px; font-size: 50px; border-radius:50px;box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);}
+.button2{background-image: url("button2.jpg");padding: 70px 200px; font-size: 50px; border-radius:50px;box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);}
+.button3{padding:7px 20px;}
