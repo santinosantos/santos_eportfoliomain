@@ -1,5 +1,5 @@
 body {background-image:url("Homepage bg.jpg"); 
-		background-size:cover;}
+		background-repeat:repeat;}
 .senabodi  {text-align:center; 
 		font-family: Blackadder ITC;
 		color: white;
@@ -24,7 +24,7 @@ ul {  list-style-type: none;
   padding: 0;}
 li { display: inline;}
 button {font-family:Aptos; 
-	background-color: none;
+	background-color: #fcc603;
 	border: none;
 	color: white;
 	font-weight:bold;
@@ -34,9 +34,10 @@ button {font-family:Aptos;
 	display: inline-block;
 	margin: 4px 2px;
 cursor:pointer;}
+p.phraya {text-shadow: 2px 2px 8px black;}
 
 iframe {border-radius:20px;}
 iframe:hover{box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);}
 .button1{background-image: url("button1.png");padding: 70px 200px; font-size: 50px; border-radius:50px;box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);}
 .button2{background-image: url("button2.jpg");padding: 70px 200px; font-size: 50px; border-radius:50px;box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);}
-.button3{padding:7px 20px;}
+.button3{
